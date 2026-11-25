@@ -10,7 +10,7 @@ The dataset used is the [Mall Customer Segmentation Data](https://www.kaggle.com
 
 ### 🛠️ Tools & Technologies
 *   **Python**
-*   **Google Colab / Jupyter Notebook**
+*   **Google Colab**
 *   **Pandas** (Data Manipulation)
 *   **Scikit-Learn** (Machine Learning)
 *   **Matplotlib** (Data Visualization)
