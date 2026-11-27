@@ -1,6 +1,4 @@
-# Prodigy InfoTech - Machine Learning Internship
-
-## Task 02: Customer Segmentation using K-Means Clustering
+### Customer Segmentation using K-Means Clustering
 
 ### 📌 Objective
 Create a K-means clustering algorithm to group customers of a retail store based on their purchase history (Annual Income and Spending Score).
